@@ -1,0 +1,12 @@
+{
+  "name": "Stopwatch",
+  "displayName": "Stopwatch",
+  "expo": {
+    "name": "Stopwatch",
+    "slug": "Stopwatch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
